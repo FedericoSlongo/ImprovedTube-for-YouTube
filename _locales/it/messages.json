@@ -576,10 +576,10 @@
         "message": "Layout"
     },
     "legacyYoutube": {
-        "message": "YouTube versione legacy"
+        "message": "Versione legacy di youtube"
     },
     "library": {
-        "message": "Library"
+        "message": "Libreria"
     },
     "light": {
         "message": "Chiaro"
@@ -636,7 +636,7 @@
         "message": "Mixer"
     },
     "more": {
-        "message": "More"
+        "message": "Di più"
     },
     "mostViewedChannels": {
         "message": "Most viewed channels"
@@ -666,7 +666,7 @@
         "message": "Notte"
     },
     "nightMode": {
-        "message": "Night mode"
+        "message": "Modalita notturna"
     },
     "noActiveFeatures": {
         "message": "Nessuna funzione attivata"
@@ -702,7 +702,7 @@
         "message": "Istanza unica di riproduzione attiva"
     },
     "openPopupPlayer": {
-        "message": "Open video/playlist in a new window"
+        "message": "Apri video/playlist in una nuova finestra"
     },
     "orange": {
         "message": "Arancione"
@@ -879,7 +879,7 @@
         "message": "Impostazioni importate con successo"
     },
     "share": {
-        "message": "Share"
+        "message": "Condividi"
     },
     "shortcuts": {
         "message": "Scorciatoie"
@@ -900,7 +900,7 @@
         "message": "Mostra durata residua del video"
     },
     "showVersion": {
-        "message": "Show version"
+        "message": "Mostra versione"
     },
     "shuffle": {
         "message": "Riproduzione casuale"
@@ -963,7 +963,7 @@
         "message": "Colore testo"
     },
     "thanks": {
-        "message": "Thanks"
+        "message": "Grazie"
     },
     "themes": {
         "message": "Temi"
@@ -1065,7 +1065,7 @@
         "message": "Tempo di visione"
     },
     "whenPaused": {
-        "message": "When paused"
+        "message": "Quando in pausa"
     },
     "whenTabIsChanged": {
         "message": "Quando si cambia scheda"
