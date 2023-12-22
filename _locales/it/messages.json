@@ -543,7 +543,7 @@
         "message": "Migliora logo YouTube"
     },
     "improvedtubeButtons": {
-        "message": "ImprovedTube buttons"
+        "message": "Pulsanti di ImprovedTube"
     },
     "improvedtubeIconOnYoutube": {
         "message": "Icona su YouTube"
@@ -642,7 +642,7 @@
         "message": "Di piú"
     },
     "mostViewedChannels": {
-        "message": "Most viewed channels"
+        "message": "Canali più visti"
     },
     "moveSidebarLeft": {
         "message": "Sposta barra laterale a sinistra"
@@ -888,7 +888,7 @@
         "message": "Impostazioni importate con successo"
     },
     "share": {
-        "message": "Share"
+        "message": "Condividi"
     },
     "shortcuts": {
         "message": "Scorciatoie"
@@ -909,7 +909,7 @@
         "message": "Mostra durata residua del video"
     },
     "showVersion": {
-        "message": "Show version"
+        "message": "Mostra versione"
     },
     "shuffle": {
         "message": "Riproduzione casuale"
@@ -918,7 +918,7 @@
         "message": "Barra laterale"
     },
     "softwareInformation": {
-        "message": "Software information"
+        "message": "Informazioni sul software"
     },
     "spacebar": {
         "message": "Barra spaziatrice"
@@ -972,7 +972,7 @@
         "message": "Colore testo"
     },
     "thanks": {
-        "message": "Thanks"
+        "message": "Grazie"
     },
     "themes": {
         "message": "Temi"
@@ -981,7 +981,7 @@
         "message": "Questo rimuoverà tutti i cookies"
     },
     "thisWillRemoveAllWatchedVideos": {
-        "message": "This will remove all watched videos."
+        "message": "Questo rimuoverà tutti i video guardati."
     },
     "thisWillRemoveAllYouTubeCookies": {
         "message": "Questo rimuoverà tutti i cookies di YouTube"
@@ -1074,7 +1074,7 @@
         "message": "Tempo di visione"
     },
     "whenPaused": {
-        "message": "When paused"
+        "message": "Quando in pausa"
     },
     "whenTabIsChanged": {
         "message": "Quando si cambia scheda"
